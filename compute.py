@@ -4,3 +4,6 @@ def mean(values):
 
 def total(values):
     return sum(values)
+
+def count(values):
+    return len(values)
